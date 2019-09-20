@@ -14,7 +14,7 @@ Email: `manfiol@ufl.edu`<br>
 
 ### About
 
-I am an undergraduate student in the University of Florida within my sophmore year.
+Luran is a Junor in CALS(College).
 I am currently working on pursuing my bachlors degree in biology and a minor in computor science with the goal to pursue a graduates degree.
 I am currently doing research with Dr.Lemas within the metabolomics portion of his research. 
 I was directed into Dr.Lemas's lab as a good bridge between several passions, medicene and technology.
